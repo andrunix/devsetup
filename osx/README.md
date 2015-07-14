@@ -44,21 +44,39 @@ Node is awesome. Head on over to https://nodejs.org, download the package and in
 
 ## nginx
 
+**Install:**
+`brew install nginx`
+
+**TODO:** more coniguration required.
+
 ## dnsmasq
 
 ## MySQL
 
+**Install:**
+`brew install mysql`
+
 ## PostgreSQL
 
+**Install:**
+`brew install postgresql`
+
 ## RubyOnRails
+
+**Install:**
+`gem install rails`
 
 
 
 ## Yeoman
 
+**Install:**
 `npm install -g yo`
 
 ## vim
+
+You could use neovim but I like good old fashioned vim.
+
 
 
 ## SublimeText
