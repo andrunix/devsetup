@@ -9,6 +9,7 @@
 * [tmux](#tmux) : https://tmux.github.io/
 * [rbenv](#rbenv) : https://github.com/sstephenson/rbenv
 * [node](#node)  : https://nodejs.org/
+* [bower](#bower) : http://bower.io
 * [nginx](#nginx) : http://nginx.org/
 * [dnsmasq](#dnsmasq)
 * [mysql](#mysql)
@@ -52,6 +53,11 @@ Work with different versions of Ruby on different projects? Me too. rbenv is you
 ## Node
 
 Node is awesome. Head on over to https://nodejs.org, download the package and install. You get npm included too!
+
+## Bower
+
+**Install**
+`npm install -g bower`
 
 ## nginx
 
