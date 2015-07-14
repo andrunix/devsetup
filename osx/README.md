@@ -1,7 +1,10 @@
 # devsetup : osx
 
 ### The Tools
+
 * [iterm2](#iterm2) : https://www.iterm2.com/
+* [XCode](#xcode) : https://developer.apple.com/xcode/downloads/
+* [git](#git) : 
 * [homebrew](#homebrew) : http://brew.sh/
 * [tmux](#tmux) : https://tmux.github.io/
 * [rbenv](#rbenv) : https://github.com/sstephenson/rbenv
@@ -18,6 +21,14 @@
 ## iterm2
 
 This tool isn't really required. Your stock Terminal will work just fine but I've been using iterm2 for a while and I dig it. Download the zip, extract, and copy to your App folder. Done.
+
+## Xcode
+
+https://developer.apple.com/xcode/downloads/
+
+## git
+
+http://git-scm.com/download/mac
 
 
 ## Homebrew
