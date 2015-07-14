@@ -5,7 +5,7 @@
 * [homebrew](#homebrew) : http://brew.sh/
 * [tmux](#tmux) : https://tmux.github.io/
 * [rbenv](#rbenv) : https://github.com/sstephenson/rbenv
-* [node & npm](#node)  : https://nodejs.org/
+* [node](#node)  : https://nodejs.org/
 * [nginx](#nginx) : http://nginx.org/
 * [dnsmasq](#dnsmasq)
 * [mysql](#mysql)
@@ -22,9 +22,15 @@ This tool isn't really required. Your stock Terminal will work just fine but I'v
 
 ## Homebrew
 
-Install with:
+**Install:**
 
 `ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
+
+## tmux
+
+**Install:** 
+
+`brew install tmux`
 
 ## rbenv
 
@@ -32,10 +38,27 @@ Work with different versions of Ruby on different projects? Me too. rbenv is you
 
 `brew install rbenv ruby-build`
 
+## Node
+
+Node is awesome. Head on over to https://nodejs.org, download the package and install. You get npm included too!
+
+## nginx
+
+## dnsmasq
+
+## MySQL
+
+## PostgreSQL
+
+## RubyOnRails
+
+
 
 ## Yeoman
 
 `npm install -g yo`
+
+## vim
 
 
 ## SublimeText
